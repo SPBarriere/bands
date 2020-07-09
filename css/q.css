@@ -1,0 +1,50 @@
+body{
+    background-color: #464159;
+}
+
+h1{
+    font-size: 40px;
+    color: #8bbabb;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+p{
+    font-size: 18px;
+    color: snow;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.nav{
+    background-color: #403c52;
+    
+}
+
+.nav a{
+    display: block;
+    background-color: #6c7b95;
+    color: #c7f0db;
+    padding:5px;
+    font-size: 18px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    border: solid #403c52;
+    
+}
+
+.nav a:hover{
+    background-color: rebeccapurple;
+    color: sandybrown;
+}
+
+.box{
+    border: solid snow;
+    padding: 15px;
+    height: 200px;
+    width: 400px;
+}
